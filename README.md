@@ -1,4 +1,4 @@
 # About-Me
 
-click on the following link to know more 
+click on thelink to know about me
 https://github.com/PrasannaKumarKottakota/About-Me/wiki/Myself
